@@ -1,9 +1,0 @@
-# Account
-imap_host = 'imap.gmail.com'
-from:
-tduong.hust02@gmail.com
-wkbnazljcpnklukb
-
-to:
-phamthaiduong526@gmail.com
-nzhelooeohpegybw
